@@ -30,7 +30,7 @@ div.purple {
 }
 
 .invisible {
-  display: visible;
+  display: unset;
 }
 
 .visible {
